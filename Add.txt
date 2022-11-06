@@ -1,1 +1,1 @@
-User can add notes
+User can add notes and save them.

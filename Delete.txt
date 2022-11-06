@@ -1,1 +1,1 @@
-User can delete notes.
+User can delete notes easily.
